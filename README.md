@@ -7,4 +7,4 @@ Newton-Raphson Algorithm: Censored Exponentially Distribution ( Newton_Raphson_S
 Fisher Scoring Algorithm: Implementing On Simple Linear Regression Model (Scoring_Algorithm_Small_Example.R) <br>
 
 ### Additional Notes
-Conjugate gradient algorithm <br>
+Conjugate Gradient algorithm <br>
